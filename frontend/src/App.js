@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Welcome to Blog Sync
+      Welcome to Blog Sync...
     </div>
   );
 }
